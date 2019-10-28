@@ -1,0 +1,2 @@
+npm install ng2-slim-loading-bar --save
+npm install rxjs-compat --save
